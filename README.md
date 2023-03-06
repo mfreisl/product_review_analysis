@@ -62,7 +62,7 @@ We encountered numerous challenges:
 
 **Programing Lanuage:** Python
 
-**Models:**
+**Model:** CNN (Convolutional Neural Networks)
 
 **Web Service:** Google Cloud Platform
 
